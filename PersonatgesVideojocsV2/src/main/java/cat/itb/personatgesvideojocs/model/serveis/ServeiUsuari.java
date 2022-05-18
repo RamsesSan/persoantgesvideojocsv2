@@ -1,5 +1,7 @@
 package cat.itb.personatgesvideojocs.model.serveis;
 
+import cat.itb.personatgesvideojocs.model.entitats.Usuari;
+import cat.itb.personatgesvideojocs.model.repositoris.RepositoriUsuari;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

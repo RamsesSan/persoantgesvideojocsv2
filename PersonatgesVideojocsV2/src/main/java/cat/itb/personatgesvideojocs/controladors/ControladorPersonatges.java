@@ -1,7 +1,9 @@
 package cat.itb.personatgesvideojocs.controladors;
 
 import cat.itb.personatgesvideojocs.model.entitats.Personatge;
+import cat.itb.personatgesvideojocs.model.entitats.Usuari;
 import cat.itb.personatgesvideojocs.model.serveis.ServeiPersonatges;
+import cat.itb.personatgesvideojocs.model.serveis.ServeiUsuari;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
