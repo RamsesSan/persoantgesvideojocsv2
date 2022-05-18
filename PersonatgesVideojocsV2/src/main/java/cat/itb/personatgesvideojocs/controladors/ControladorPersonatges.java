@@ -14,6 +14,8 @@ public class ControladorPersonatges {
 
     private final ServeiPersonatges serveiPersonatges;
 
+    private final ServeiUsuari serveiUsuari;
+
     @CrossOrigin(origins = "http://localhost:8080")
     /*@GetMapping("/personatges")
     public List<Personatge> llistarPersonatges(@RequestParam(value = "status", required = false) String status) {
@@ -58,6 +60,11 @@ public class ControladorPersonatges {
     @PutMapping("/personatges")
     public Personatge modificarPersonatge(@RequestBody Personatge mod){
         return serveiPersonatges.modificarPersonatge(mod);
+    }
+
+    @PostMapping("/crearusuari")
+    public Usuari crearNouUsuari(@RequestBody Usuari nou){
+        return serveiUsuari.crearNouUsuari(nou);
     }
 
 }

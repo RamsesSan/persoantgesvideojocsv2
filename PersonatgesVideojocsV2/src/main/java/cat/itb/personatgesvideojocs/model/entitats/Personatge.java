@@ -1,6 +1,8 @@
 package cat.itb.personatgesvideojocs.model.entitats;
 
 import lombok.Data;
+import lombok.RequiredArgsConstructor;
+
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
@@ -12,4 +14,6 @@ public class Personatge {
     private String nom;
     private String ofici;
     private String status;
+
+
 }
