@@ -1,5 +1,6 @@
 package cat.itb.personatgesvideojocs.model.entitats;
 
+import com.sun.istack.NotNull;
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.GrantedAuthority;
@@ -20,11 +21,16 @@ import java.util.Set;
 public class Usuari implements UserDetails {
     @Id
     @GeneratedValue
+    @NotNull
     private Long id;
     @Column(unique = true)
     private String username;
+    @NotNull
     private String password;
+    @NotNull
+    private String matchingPassword;
     private String avatar;
+    @NotNull
     private String rol = "USER";
 
     @Override
@@ -52,6 +58,15 @@ public class Usuari implements UserDetails {
     @Override
     public boolean isEnabled() {
         return true;
+    }
+
+    public Usuari(Long id, String username, String password, String matchingPassword, String avatar, String rol) {
+        this.id = id;
+        this.username = username;
+        this.password = password;
+        this.matchingPassword = matchingPassword;
+        this.avatar = avatar;
+        this.rol = "USER";
     }
 }
 
