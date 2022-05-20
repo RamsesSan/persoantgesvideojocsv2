@@ -1,8 +1,6 @@
 package cat.itb.personatgesvideojocs.model.entitats;
 
 import lombok.Data;
-import lombok.RequiredArgsConstructor;
-
 import javax.persistence.Entity;
 import javax.persistence.Id;
 

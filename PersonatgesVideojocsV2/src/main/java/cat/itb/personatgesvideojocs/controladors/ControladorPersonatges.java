@@ -3,7 +3,8 @@ package cat.itb.personatgesvideojocs.controladors;
 import cat.itb.personatgesvideojocs.model.entitats.Personatge;
 import cat.itb.personatgesvideojocs.model.entitats.Usuari;
 import cat.itb.personatgesvideojocs.model.serveis.ServeiPersonatges;
-import cat.itb.personatgesvideojocs.model.serveis.ServeiUsuari;
+
+import cat.itb.personatgesvideojocs.model.serveis.ServeiUsuaris;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
@@ -16,7 +17,7 @@ public class ControladorPersonatges {
 
     private final ServeiPersonatges serveiPersonatges;
 
-    private final ServeiUsuari serveiUsuari;
+    private final ServeiUsuaris serveiUsuari;
 
     @CrossOrigin(origins = "http://localhost:8080")
     /*@GetMapping("/personatges")
@@ -66,7 +67,7 @@ public class ControladorPersonatges {
 
     @PostMapping("/crearusuari")
     public Usuari crearNouUsuari(@RequestBody Usuari nou){
+
         return serveiUsuari.crearNouUsuari(nou);
     }
-
 }
