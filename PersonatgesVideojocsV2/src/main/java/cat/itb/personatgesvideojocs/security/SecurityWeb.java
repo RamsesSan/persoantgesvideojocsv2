@@ -22,7 +22,11 @@ public class SecurityWeb extends WebSecurityConfigurerAdapter {
     private final MyUserDetailsService myUserDetailsService;
     private final PasswordEncoder xifrat;
 
-
+/*    protected void configure(HttpSecurity http) throws Exception{
+        http.authorizeRequests()
+                .anyRequest().authenticated()
+                .and().oauth2Login();
+    }*/
 
     @Override
     protected void configure(AuthenticationManagerBuilder auth) throws Exception {
