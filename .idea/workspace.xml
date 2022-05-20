@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e40e6c8e-90fd-481c-bdc6-bab8aa981004" name="Changes" comment="API V1 Final V4.1">
-      <change beforePath="$PROJECT_DIR$/PersonatgesVideojocsV2/src/main/java/cat/itb/personatgesvideojocs/controladors/ControladorLogin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonatgesVideojocsV2/src/main/java/cat/itb/personatgesvideojocs/controladors/ControladorPersonatges.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonatgesVideojocsV2/src/main/java/cat/itb/personatgesvideojocs/controladors/ControladorPersonatges.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bd_personatges.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/bd_personatges.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonatgesVideojocsV2/src/main/java/cat/itb/personatgesvideojocs/security/SecurityWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonatgesVideojocsV2/src/main/java/cat/itb/personatgesvideojocs/security/SecurityWeb.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -249,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653067500838</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="API V1 Final V4.1">
+      <created>1653068030039</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1653068030039</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

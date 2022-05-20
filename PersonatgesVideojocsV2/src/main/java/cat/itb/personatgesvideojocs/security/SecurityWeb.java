@@ -29,8 +29,8 @@ public class SecurityWeb extends WebSecurityConfigurerAdapter {
         auth
                 .inMemoryAuthentication()
                 .passwordEncoder(xifrat)
-                .withUser("admin")
-                .password(xifrat.encode("admin"))
+                .withUser("ramses")
+                .password(xifrat.encode("pass"))
                 .roles("ADMIN");
     }
 
