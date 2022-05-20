@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e40e6c8e-90fd-481c-bdc6-bab8aa981004" name="Changes" comment="API V1 Final" />
+    <list default="true" id="e40e6c8e-90fd-481c-bdc6-bab8aa981004" name="Changes" comment="API V1 Final V2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,6 +116,7 @@
       <workItem from="1652900846808" duration="2952000" />
       <workItem from="1652903834350" duration="2249000" />
       <workItem from="1652906114395" duration="1809000" />
+      <workItem from="1653052700311" duration="295000" />
     </task>
     <task id="LOCAL-00001" summary="API V1">
       <created>1652901510446</created>
@@ -166,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652905687984</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="API V1 Final V2">
+      <created>1653052987338</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1653052987338</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +206,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="API V1" />
     <MESSAGE value="API V1 Final" />
-    <option name="LAST_COMMIT_MESSAGE" value="API V1 Final" />
+    <MESSAGE value="API V1 Final V2" />
+    <option name="LAST_COMMIT_MESSAGE" value="API V1 Final V2" />
   </component>
 </project>
