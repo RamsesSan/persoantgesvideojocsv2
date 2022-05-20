@@ -29,10 +29,12 @@ public class SecurityWeb extends WebSecurityConfigurerAdapter {
         auth
                 .inMemoryAuthentication()
                 .passwordEncoder(xifrat)
-                .withUser("ramses")
-                .password(xifrat.encode("pass"))
+                .withUser("admin")
+                .password(xifrat.encode("admin"))
                 .roles("ADMIN");
     }
+
+
 
     @Override
     protected void configure(HttpSecurity http) throws Exception {
