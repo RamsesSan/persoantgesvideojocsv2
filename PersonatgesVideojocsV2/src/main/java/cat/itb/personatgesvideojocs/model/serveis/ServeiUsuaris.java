@@ -30,8 +30,8 @@ public class ServeiUsuaris {
     public List<Usuari> llistarUsuaris() {
         return repositoriUsuari.findAll();
     }
-@PostConstruct
+/*@PostConstruct
     public void init() {
         repositoriUsuari.save(new Usuari(101L, "ramses", xifrat.encode("pass"), "ramses", "sd", "ADMIN"));
-    }
+    }*/
 }

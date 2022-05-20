@@ -19,7 +19,7 @@ public class ControladorPersonatges {
 
     private final ServeiUsuaris serveiUsuari;
 
-    @CrossOrigin(origins = "http://localhost:8080")
+    //@CrossOrigin(origins = "http://localhost:8080")
     /*@GetMapping("/personatges")
     public List<Personatge> llistarPersonatges(@RequestParam(value = "status", required = false) String status) {
         if (status == null) {
