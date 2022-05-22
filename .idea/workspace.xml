@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e40e6c8e-90fd-481c-bdc6-bab8aa981004" name="Changes" comment="API V1 Final V4.1" />
+    <list default="true" id="e40e6c8e-90fd-481c-bdc6-bab8aa981004" name="Changes" comment="API V1 Final V4.1">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_05_2022_18_58__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_05_2022_18_58__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,49 +17,25 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Pull.Settings">
-    <option name="OPTIONS">
-      <set>
-        <option value="REBASE" />
-      </set>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="heroku" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="HARD" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
       <map>
-        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
-        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
         <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
     <option name="myId2Visible">
       <map>
-        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
-        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
-        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -68,7 +48,7 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectId" id="28wKQvhEDi3f9VgtSrQIqhXNS36" />
+  <component name="ProjectId" id="29Wu51IfFQaPiI5YfHKYrweKN0w" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -76,34 +56,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/DAMvA/M09/jugadorsspring",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "last_opened_file_path": "C:/DAMvA/M09/PersonatgesVideojocs",
     "spring.configuration.checksum": "8d1e599e0b6b2aab265c8321413e067e"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="cat.itb.personatgesvideojocs.serveis" />
-    </key>
-  </component>
   <component name="RunManager">
     <configuration name="PersonatgesVideojocsV2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <option name="ACTIVE_PROFILES" />
-      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-16" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <module name="personatgesvideojocs" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cat.itb.personatgesvideojocs.PersonatgesVideojocsV2Application" />
       <method v="2">
@@ -114,146 +75,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e40e6c8e-90fd-481c-bdc6-bab8aa981004" name="Changes" comment="" />
-      <created>1652122195901</created>
+      <changelist id="e40e6c8e-90fd-481c-bdc6-bab8aa981004" name="Changes" comment="API V1 Final V4.1" />
+      <created>1653240975405</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1652122195901</updated>
-      <workItem from="1652122197374" duration="1896000" />
-      <workItem from="1652207570678" duration="585000" />
-      <workItem from="1652547543792" duration="3116000" />
-      <workItem from="1652900846808" duration="2952000" />
-      <workItem from="1652903834350" duration="2249000" />
-      <workItem from="1652906114395" duration="1809000" />
-      <workItem from="1653052700311" duration="295000" />
+      <updated>1653240975405</updated>
+      <workItem from="1653240976795" duration="800000" />
     </task>
-    <task id="LOCAL-00001" summary="API V1">
-      <created>1652901510446</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1652901510446</updated>
-    </task>
-    <task id="LOCAL-00002" summary="API V1">
-      <created>1652901758468</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1652901758468</updated>
-    </task>
-    <task id="LOCAL-00003" summary="API V1 Final">
-      <created>1652903280569</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1652903280569</updated>
-    </task>
-    <task id="LOCAL-00004" summary="API V1 Final">
-      <created>1652905381309</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1652905381309</updated>
-    </task>
-    <task id="LOCAL-00005" summary="API V1 Final">
-      <created>1652905615131</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1652905615131</updated>
-    </task>
-    <task id="LOCAL-00006" summary="API V1 Final">
-      <created>1652905653933</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1652905653933</updated>
-    </task>
-    <task id="LOCAL-00007" summary="API V1 Final">
-      <created>1652905687984</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1652905687984</updated>
-    </task>
-    <task id="LOCAL-00008" summary="API V1 Final V2">
-      <created>1653052987338</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1653052987338</updated>
-    </task>
-    <task id="LOCAL-00009" summary="API V1 Final V3">
-      <created>1653059202314</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1653059202314</updated>
-    </task>
-    <task id="LOCAL-00010" summary="API V1 Final V3">
-      <created>1653059209314</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1653059209314</updated>
-    </task>
-    <task id="LOCAL-00011" summary="API V1 Final V3">
-      <created>1653059232133</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1653059232133</updated>
-    </task>
-    <task id="LOCAL-00012" summary="API V1 Final V3">
-      <created>1653059247656</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1653059247656</updated>
-    </task>
-    <task id="LOCAL-00013" summary="API V1 Final V4">
-      <created>1653065879549</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1653065879549</updated>
-    </task>
-    <task id="LOCAL-00014" summary="API V1 Final V4">
-      <created>1653065928395</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1653065928395</updated>
-    </task>
-    <task id="LOCAL-00015" summary="API V1 Final V4">
-      <created>1653066043305</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1653066043305</updated>
-    </task>
-    <task id="LOCAL-00016" summary="API V1 Final V4">
-      <created>1653066065900</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1653066065900</updated>
-    </task>
-    <task id="LOCAL-00017" summary="API V1 Final V4.1">
-      <created>1653067500838</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1653067500838</updated>
-    </task>
-    <task id="LOCAL-00018" summary="API V1 Final V4.1">
-      <created>1653068030039</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1653068030039</updated>
-    </task>
-    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +98,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="heroku" />
                       </list>
                     </value>
                   </entry>
@@ -281,13 +109,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="API V1" />
-    <MESSAGE value="API V1 Final" />
-    <MESSAGE value="API V1 Final V2" />
-    <MESSAGE value="API V1 Final V4" />
-    <MESSAGE value="API V1 Final V4.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="API V1 Final V4.1" />
   </component>
 </project>
