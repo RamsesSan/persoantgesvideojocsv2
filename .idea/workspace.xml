@@ -78,6 +78,14 @@
       <updated>1653240975405</updated>
       <workItem from="1653240976795" duration="800000" />
     </task>
+    <task id="LOCAL-00001" summary="API V1 Final V4.1">
+      <created>1653242840112</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653242840112</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,5 +113,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="API V1 Final V4.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="API V1 Final V4.1" />
   </component>
 </project>
